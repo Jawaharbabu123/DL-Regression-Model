@@ -41,9 +41,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: Mukitha V M
+### Name: JAWAHAR BABU S
 
-### Register Number:21223040119
+### Register Number:212224220041
 
 ```
 class NeuralNet(nn.Module):
